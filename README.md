@@ -14,7 +14,7 @@
 
 # Diagrama de Componentes:
 
-<img width="1351" height="1069" alt="image" src="https://github.com/user-attachments/assets/224df33d-c057-4bc5-b905-a05389a8cc15" />
+<img width="971" height="756" alt="image" src="https://github.com/user-attachments/assets/629c4d04-6b2e-43a2-9d7c-2bb80c7de6de" />
 
 # Diagrama casos de uso (Fluxo Principal)
 
