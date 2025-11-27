@@ -2,7 +2,8 @@
 
 # Modelagem de Dados:
 
-<img width="1983" height="4374" alt="image" src="https://github.com/user-attachments/assets/bfb33f7b-f6a1-4ccf-b81b-0bf715205e80" />
+<img width="3330" height="4374" alt="Untitled diagram-2025-11-27-145833" src="https://github.com/user-attachments/assets/0ba9d30b-3386-4ce7-8a4d-f84f3589c1c9" />
+
 
 # Diagrama de Contexto:
 
